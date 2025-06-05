@@ -1,0 +1,4 @@
+git init
+touch main.tf
+git add .
+git commit -m "initial commit"
